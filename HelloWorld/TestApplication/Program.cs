@@ -13,10 +13,11 @@ namespace TestApplication
     {
         static void Main(string[] args)
         {
-            //SayHelloTest().Wait();
+            SayHelloTest().Wait();
             StreamingTest().Wait();
 
             Console.ReadLine();
+            GrainClient.Uninitialize();
         }
 
 

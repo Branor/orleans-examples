@@ -5,13 +5,13 @@ VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{9604458C-57CC-4D69-8B20-7CB1FD4FC273}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorldInterfaces", "HelloWorldInterfaces\HelloWorldInterfaces.csproj", "{3BD01348-ACC3-4378-A49E-4D62FB0BD3D0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExampleInterfaces", "HelloWorldInterfaces\ExampleInterfaces.csproj", "{3BD01348-ACC3-4378-A49E-4D62FB0BD3D0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorldGrains", "HelloWorldGrains\HelloWorldGrains.csproj", "{943794E3-F54E-4678-B225-B45018344AEC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExampleGrains", "HelloWorldGrains\ExampleGrains.csproj", "{943794E3-F54E-4678-B225-B45018344AEC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{E4EE0184-1DC6-4528-9463-987B3BE57752}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrleansSiloHost", "HelloWorld\OrleansSiloHost.csproj", "{E4EE0184-1DC6-4528-9463-987B3BE57752}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApplication", "TestApplication\TestApplication.csproj", "{056363F6-209E-42BB-A6C6-427D1AD634ED}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrleansTestClient", "TestApplication\OrleansTestClient.csproj", "{056363F6-209E-42BB-A6C6-427D1AD634ED}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

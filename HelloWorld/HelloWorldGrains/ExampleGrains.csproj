@@ -84,9 +84,9 @@
     <Compile Include="Properties\orleans.codegen.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\HelloWorldInterfaces\HelloWorldInterfaces.csproj">
+    <ProjectReference Include="..\HelloWorldInterfaces\ExampleInterfaces.csproj">
       <Project>{3BD01348-ACC3-4378-A49E-4D62FB0BD3D0}</Project>
-      <Name>HelloWorldInterfaces</Name>
+      <Name>ExampleInterfaces</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>

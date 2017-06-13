@@ -108,13 +108,13 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\HelloWorldGrains\HelloWorldGrains.csproj">
+    <ProjectReference Include="..\HelloWorldGrains\ExampleGrains.csproj">
       <Project>{943794e3-f54e-4678-b225-b45018344aec}</Project>
-      <Name>HelloWorldGrains</Name>
+      <Name>ExampleGrains</Name>
     </ProjectReference>
-    <ProjectReference Include="..\HelloWorldInterfaces\HelloWorldInterfaces.csproj">
+    <ProjectReference Include="..\HelloWorldInterfaces\ExampleInterfaces.csproj">
       <Project>{3bd01348-acc3-4378-a49e-4d62fb0bd3d0}</Project>
-      <Name>HelloWorldInterfaces</Name>
+      <Name>ExampleInterfaces</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>

@@ -1,10 +1,6 @@
 ﻿using HelloWorldInterfaces;
 using Orleans;
-using Orleans.Streams;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 using System.Threading.Tasks;
 
 namespace TestApplication
@@ -13,7 +9,7 @@ namespace TestApplication
     {
         static void Main(string[] args)
         {
-            SayHelloTest().Wait();
+            //SayHelloTest().Wait();
             StreamingTest().Wait();
 
             Console.ReadLine();
